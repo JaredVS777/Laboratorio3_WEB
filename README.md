@@ -1,4 +1,4 @@
-# Laboratorio-3---WEB
+# Laboratorio 3 WEB
 
 # Integrantes del Grupo
 * Jared Valenzuela
